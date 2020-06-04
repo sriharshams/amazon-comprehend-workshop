@@ -85,7 +85,7 @@ On this page you will see a list of any SageMaker notebooks you have running, si
 
 ![StackWizard5](static/imgs/img9.png)
 
-This will open the Jupyter environment for your POC, think of it as a web based data science IDE if you are not familiar with it. It should Automatically open the `amazon-comprehend-workshop` folder for you, but if it does not do that by clicking on the folder icon in the browser on the left side of the screen and follow the documentation below to get started with your Lab!
+This will open the Jupyter environment for your lab, think of it as a web based data science IDE if you are not familiar with it. It should Automatically open the `amazon-comprehend-workshop` folder for you, but if it does not do that by clicking on the folder icon in the browser on the left side of the screen and follow the documentation below to get started with your Lab!
 
 
 
