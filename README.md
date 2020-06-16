@@ -9,11 +9,15 @@ This is a place where you will find example to run Amazon Forecast workshop
 Open the [workshop](workshop/) folder to find a CloudFormation template that will deploy all the resources you need to build your Amazon Comprehend Custom Classification. The workshop provided can also serve as a template to building your own models with your own data.
 
 In the [*workshop*](workshop/) folder you will learn to:
-
-1. Prepare a dataset for use with Amazon Comprehend Custom Classification.
+Lab1
+1. Prepare a dataset for use with Amazon Comprehend Custom Classification bring your own dataset or use open dataset.
 2. Build models based on that dataset.
 3. Evaluate a model's performance based on real observations.
 
+Lab2
+1. Use Amazon Comprehend via console and CLI
+2. Use Amazon Translate via console and CLI
+3. Use Amazon Trascribe via console and CLI
 
 ## Process:
 
